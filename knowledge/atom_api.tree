@@ -1,0 +1,109 @@
+atom_api
+	atom
+		; properties
+		clipboard
+		commands
+		config
+		contextMenu
+		deserializers
+		grammars
+		keymaps
+		menu
+		notifications
+		packages
+		project
+		styles
+		textEditors
+		themes
+		tooltips
+		workspace
+			copy()
+			destroy()
+			getAllowedLocation() moved:<t>
+			getDefaultLocation() moved:<t>
+			getElement()
+			getIconName()
+			getLongTitle()
+			getPath()
+			getPrefferedHeight()
+			getPrefferedWidth()
+			getTitle()
+			getURI()
+			isModified()
+			onDidChangeIcon()
+			onDidChangeModified()
+			onDidChangeTitle()
+			onDidDestroy()
+			onDidTerminatePendingState()
+			save()
+			saveAs()
+			serialize()
+			shouldPromptToSave()
+			;;
+			observeTextEditors()
+			observePaneItems()
+			onDidChangeActivePaneItem()
+			onDidChangeActiveTextEditor()
+			observeActivePaneItem()
+			observeActiveTextEditor()
+			onDidOpen()
+			;;
+			onDidAddPane()
+			onWillDestroyPane()
+			onDidDestroyPane()
+			observePanes()
+			onDidChangeActivePane()
+			observeActivePane()
+			onDidAddPaneItem()
+			
+		views
+		; event subscriptions
+		onDidBeep()
+		onDidThrowError()
+		onWillThrowError()
+		whenShellEnvironmentLoaded()
+		;
+		inDevMode()
+		inSafeMode()
+		inSpecMode()
+		getAppName()
+		getVersion()
+		getReleaseChannel()
+		isReleasedVersion()
+		getWindowLoadTime()
+		getStartupMarkers()
+		getLoadSettings()
+		;
+		open()
+		close()
+		getSize()
+		setSize()
+		getPosition()
+		setPosition()
+		;;
+		pickFolder()
+		getCurrentWindow()
+		center()
+		focus()
+		show()
+		hide()
+		reload()
+		restartApplication()
+		isMaximized()
+		isFullScreen()
+		setFullScreen()
+		toggleFullScreen()
+		;;
+		beep()
+		confirm()
+		;;
+		openDevTools()
+		toggleDevTools()
+		executeJavaScriptInDevTools()
+		
+		
+		
+		
+		
+		
+		

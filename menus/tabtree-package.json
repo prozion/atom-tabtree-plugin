@@ -1,0 +1,30 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle tabtree",
+        "command": "tabtree-package:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Tabtree",
+          "submenu": [
+            {
+              "label": "Fold1",
+              "command": "tabtree-package:fold1"
+            },
+            {
+              "label": "Fold2",
+              "command": "tabtree-package:fold2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "atom-workspace": {
+    "ctrl-1": "tabtree-package:fold1",
+    "ctrl-2": "tabtree-package:fold2",
+    "ctrl-3": "tabtree-package:fold3",
+    "ctrl-4": "tabtree-package:fold4",
+    "ctrl-5": "tabtree-package:fold5"
+  }
+}
