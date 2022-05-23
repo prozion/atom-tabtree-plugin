@@ -4,6 +4,10 @@
     "ctrl-2": "tabtree-package:fold2",
     "ctrl-3": "tabtree-package:fold3",
     "ctrl-4": "tabtree-package:fold4",
-    "ctrl-5": "tabtree-package:fold5"
+    "ctrl-5": "tabtree-package:fold5",
+    "ctrl-6": "tabtree-package:fold6",
+    "ctrl-7": "tabtree-package:fold7",
+    "ctrl-8": "tabtree-package:fold8",
+    "ctrl-9": "tabtree-package:fold9"
   }
 }
